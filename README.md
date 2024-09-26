@@ -116,3 +116,7 @@ Solutions: x = [1, 2]
 ## License
 
 This project is licensed under the MIT License.
+
+## Contributor
+
+Shashank Reddy kallem
