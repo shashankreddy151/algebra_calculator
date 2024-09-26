@@ -33,5 +33,5 @@ pip install sympy
 
    ```bash
    git clone https://github.com/your-username/algebra-calculator.git
-
+   ```
 
