@@ -1,0 +1,9 @@
+#### 3. `.gitignore` (Ignore Unnecessary Files)
+```gitignore
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/

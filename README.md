@@ -19,3 +19,5 @@ Install the SymPy library using pip:
 ```bash
 pip install sympy
 
+#How to Run
+Clone the Repository: First, clone this repository to your local machine using the following command:
