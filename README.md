@@ -119,4 +119,4 @@ This project is licensed under the MIT License.
 
 ## Contributor
 
-Shashank Reddy kallem
+Shashank Reddy kalle
