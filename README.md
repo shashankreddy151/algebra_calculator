@@ -20,8 +20,6 @@ Install the SymPy library using pip:
 pip install sympy
 ```
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 ## How to Run
 
 1. **Clone the Repository**: First, clone this repository to your local machine using the following command:
@@ -30,13 +28,6 @@ pip install sympy
    git clone https://github.com/your-username/algebra-calculator.git
    ```
 
-## How to Run
-
-1. **Clone the Repository**: First, clone this repository to your local machine using the following command:
-
-   ```bash
-   git clone https://github.com/your-username/algebra-calculator.git
-   ```
 
 1. **Clone the Repository**: First, clone this repository to your local machine using the following command:
 
