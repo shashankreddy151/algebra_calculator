@@ -37,11 +37,6 @@ pip install sympy
    ```bash
    git clone https://github.com/your-username/algebra-calculator.git
    ```
-=======
->>>>>>> cb132b50688117cd402f600a3a233fbdb35eb1a2
-=======
-## How to Run
->>>>>>> 901c29f7c53e0857bb1aef43881e34463eca8da1
 
 1. **Clone the Repository**: First, clone this repository to your local machine using the following command:
 
@@ -119,4 +114,4 @@ This project is licensed under the MIT License.
 
 ## Contributor
 
-Shashank Reddy kalle
+Shashank Reddy kallem
